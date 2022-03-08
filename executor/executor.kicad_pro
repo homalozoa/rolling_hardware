@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.0,
-          "height": 3.0,
-          "width": 3.0
+          "drill": 0.0,
+          "height": 1.5,
+          "width": 1.5
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|76625834|74408563|e7b5788e-f3b1-4f13-aa08-422ed3496eba|2536ecb7-ef25-42da-9e10-5bb27ecb44b2",
+        "silk_over_copper|83084871|72036814|e7b5788e-f3b1-4f13-aa08-422ed3496eba|29783226-6a72-48a0-9ea1-b3b226ad73fa",
+        "silk_over_copper|83190501|71965188|e7b5788e-f3b1-4f13-aa08-422ed3496eba|0a7dc01e-6bff-4157-9dc7-9b96bbef498d"
+      ],
       "meta": {
         "version": 2
       },
@@ -123,7 +127,8 @@
         0.127,
         0.254,
         0.508,
-        0.762
+        0.762,
+        2.0
       ],
       "via_dimensions": [
         {
