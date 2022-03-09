@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -55,11 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|76625834|74408563|e7b5788e-f3b1-4f13-aa08-422ed3496eba|2536ecb7-ef25-42da-9e10-5bb27ecb44b2",
-        "silk_over_copper|83084871|72036814|e7b5788e-f3b1-4f13-aa08-422ed3496eba|29783226-6a72-48a0-9ea1-b3b226ad73fa",
-        "silk_over_copper|83190501|71965188|e7b5788e-f3b1-4f13-aa08-422ed3496eba|0a7dc01e-6bff-4157-9dc7-9b96bbef498d"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -363,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "executor.kicad_pro",
+    "filename": "limbic_cm4.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -410,7 +406,7 @@
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
-      "intersheets_ref_short": false,
+      "intersheets_ref_short": true,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
@@ -442,7 +438,7 @@
   },
   "sheets": [
     [
-      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
+      "e71582a4-574c-4ddf-938c-3ef7a7c05f27",
       ""
     ]
   ],

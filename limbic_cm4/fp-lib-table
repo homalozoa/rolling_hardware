@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Rolling_Custom")(type "KiCad")(uri "/home/homalozoa/rolling/rolling_hardware/libraries/Rolling_Custom.pretty")(options "")(descr ""))
+)
