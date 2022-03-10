@@ -7560,7 +7560,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 71864906-2d8f-4141-b0ba-1609faa900a9)
     (property "Reference" "R33" (id 0) (at 427.99 104.14 90))
-    (property "Value" "10k, 5%" (id 1) (at 427.99 106.68 90))
+    (property "Value" "330R, 5%" (id 1) (at 427.99 106.68 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 428.244 109.474 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -10318,7 +10318,7 @@
       (reference "R32") (unit 1) (value "33k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/71864906-2d8f-4141-b0ba-1609faa900a9"
-      (reference "R33") (unit 1) (value "10k, 5%") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R33") (unit 1) (value "330R, 5%") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/a5779508-5cae-439a-b00e-8694b614cba2"
       (reference "R34") (unit 1) (value "3k") (footprint "Resistor_SMD:R_0402_1005Metric")
