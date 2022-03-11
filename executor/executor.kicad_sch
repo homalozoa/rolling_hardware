@@ -6358,7 +6358,7 @@
     (property "Reference" "C16" (id 0) (at 91.44 236.2199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF, 10%, 50V" (id 1) (at 82.55 243.84 90)
+    (property "Value" "100nF, 10%, 10V" (id 1) (at 82.55 243.84 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 88.5952 241.3 0)
@@ -6559,7 +6559,7 @@
     (property "Value" "10uF, 10%, 50V" (id 1) (at 557.53 300.99 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 557.2252 288.29 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 557.2252 288.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 556.26 284.48 0)
@@ -6810,10 +6810,10 @@
     (property "Reference" "C59" (id 0) (at 471.17 321.31 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "300nF, 10%, 50V" (id 1) (at 471.17 340.36 90)
+    (property "Value" "470nF, 10%, 50V" (id 1) (at 466.09 340.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 470.8652 326.39 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 470.8652 326.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 469.9 322.58 0)
@@ -6961,7 +6961,7 @@
   (symbol (lib_id "power:+24V") (at 377.19 269.24 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3ee524f9-f58d-4e7b-8c2a-849f889fd847)
-    (property "Reference" "#PWR?" (id 0) (at 377.19 273.05 0)
+    (property "Reference" "#PWR0101" (id 0) (at 377.19 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (id 1) (at 377.19 264.16 0))
@@ -7030,7 +7030,7 @@
     (property "Value" "1uF, 10%, 50V" (id 1) (at 266.7 349.25 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 265.43 344.4748 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 265.43 344.4748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 261.62 345.44 0)
@@ -7656,7 +7656,7 @@
     (property "Value" "4.7uF, 20%, 50V" (id 1) (at 182.88 227.3299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 180.0352 229.87 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 180.0352 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 226.06 0)
@@ -7690,7 +7690,7 @@
     (property "Value" "4.7uF, 20%, 50V" (id 1) (at 229.87 367.03 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 227.0252 354.33 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 227.0252 354.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 226.06 350.52 0)
@@ -7912,7 +7912,7 @@
     (property "Value" "10uF, 10%, 50V" (id 1) (at 563.88 300.99 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 563.5752 288.29 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 563.5752 288.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 562.61 284.48 0)
@@ -7931,7 +7931,7 @@
     (property "Value" "1uF, 10%, 50V" (id 1) (at 156.21 299.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 138.7348 293.37 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 138.7348 293.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 139.7 297.18 0)
@@ -8063,7 +8063,7 @@
     (property "Reference" "C38" (id 0) (at 288.29 184.1499 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10pF, 10%, 10V" (id 1) (at 269.24 187.96 0)
+    (property "Value" "20pF, 10%, 10V" (id 1) (at 269.24 187.96 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 283.5148 181.61 0)
@@ -8104,7 +8104,7 @@
     (property "Value" "4.7uF, 20%, 50V" (id 1) (at 158.75 227.3299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 155.9052 229.87 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 155.9052 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 154.94 226.06 0)
@@ -8158,7 +8158,7 @@
     (property "Value" "1uF, 10%, 50V" (id 1) (at 207.01 299.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 189.5348 293.37 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 189.5348 293.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 190.5 297.18 0)
@@ -8297,7 +8297,7 @@
     (property "Reference" "C42" (id 0) (at 309.88 184.1499 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10pF, 10%, 10V" (id 1) (at 309.88 186.6899 0)
+    (property "Value" "20pF, 10%, 10V" (id 1) (at 309.88 186.6899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 305.1048 181.61 0)
@@ -8583,7 +8583,7 @@
     (property "Value" "1uF, 10%, 50V" (id 1) (at 105.41 299.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 87.9348 293.37 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 87.9348 293.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 297.18 0)
@@ -8822,7 +8822,7 @@
     (property "Reference" "C6" (id 0) (at 55.88 236.2199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF, 10%, 50V" (id 1) (at 48.26 243.84 90)
+    (property "Value" "10uF, 20%, 6.3V" (id 1) (at 48.26 243.84 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 53.0352 241.3 0)
@@ -8972,7 +8972,7 @@
     (property "Value" "4.7uF, 20%, 50V" (id 1) (at 238.76 367.03 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 235.9152 354.33 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 235.9152 354.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 234.95 350.52 0)
@@ -9191,7 +9191,7 @@
     (uuid dcecb2f4-49d1-4831-a1f0-8775d34e424b)
     (property "Reference" "L1" (id 0) (at 138.43 208.28 90))
     (property "Value" "10uH" (id 1) (at 138.43 210.82 90))
-    (property "Footprint" "Inductor_SMD:L_Coilcraft_XxL4040" (id 2) (at 138.43 213.36 0)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (id 2) (at 138.43 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 138.43 213.36 0)
@@ -9355,7 +9355,7 @@
     (property "Reference" "C10" (id 0) (at 73.66 236.2199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF, 10%, 50V" (id 1) (at 66.04 243.84 90)
+    (property "Value" "10uF, 20%, 6.3V" (id 1) (at 66.04 243.84 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 70.8152 241.3 0)
@@ -9973,7 +9973,7 @@
       (reference "#PWR062") (unit 1) (value "GND") (footprint "")
     )
     (path "/3ee524f9-f58d-4e7b-8c2a-849f889fd847"
-      (reference "#PWR?") (unit 1) (value "+24V") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "+24V") (footprint "")
     )
     (path "/125eac58-8eb8-40f9-a2f8-f7d138479c84"
       (reference "C1") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -9991,7 +9991,7 @@
       (reference "C5") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/be7146e7-5e44-40f1-9f35-53164f8aac33"
-      (reference "C6") (unit 1) (value "10uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C6") (unit 1) (value "10uF, 20%, 6.3V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/4b698f02-2f2c-49a4-9960-e91e8c005529"
       (reference "C7") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -10003,7 +10003,7 @@
       (reference "C9") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e89f5f65-0d3b-40f8-a3c4-5bf1b0f0caa8"
-      (reference "C10") (unit 1) (value "10uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C10") (unit 1) (value "10uF, 20%, 6.3V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/20e043a5-1fd0-4c40-a89e-a1cd90122ab0"
       (reference "C11") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -10021,10 +10021,10 @@
       (reference "C15") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/0f22a77a-4272-4763-83a1-c1d785955e49"
-      (reference "C16") (unit 1) (value "100nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C16") (unit 1) (value "100nF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/af00290f-0095-4b93-87ad-62053a9c8ef4"
-      (reference "C17") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C17") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f88b120e-483a-4540-84a3-5c686215f1a9"
       (reference "C18") (unit 1) (value "10uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -10048,25 +10048,25 @@
       (reference "C24") (unit 1) (value "100nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/86b51086-e8ae-4d80-a623-d1bca6759e7d"
-      (reference "C25") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C25") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8df28a6d-e1ce-4ae9-971f-74cc3c6f34e9"
-      (reference "C26") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C26") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/c0f4b643-645b-44d1-ba2d-5f03eedb6454"
       (reference "C27") (unit 1) (value "100nF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/74f22769-813a-49b2-acde-711953b487f5"
-      (reference "C28") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C28") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/95753ac7-a0a6-4c82-aa22-dbac36cb3dc0"
-      (reference "C29") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C29") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/27e2f799-bff2-45a8-837f-7377a335223d"
       (reference "C30") (unit 1) (value "100nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/78e85ba0-8a9c-4792-a50e-e4cffbdd8313"
-      (reference "C31") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C31") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/9db45209-92b1-4e1a-a0fc-e202d412056e"
       (reference "C32") (unit 1) (value "1nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -10075,7 +10075,7 @@
       (reference "C33") (unit 1) (value "100nF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/ca0008e1-31be-4103-9bd1-7676026123e1"
-      (reference "C34") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C34") (unit 1) (value "4.7uF, 20%, 50V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/4d731ad4-a181-4ed0-8540-ce4635672f25"
       (reference "C35") (unit 1) (value "1nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -10084,10 +10084,10 @@
       (reference "C36") (unit 1) (value "100nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/4336df8e-32b0-4f2e-9532-d5083d907e72"
-      (reference "C37") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C37") (unit 1) (value "1uF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8c933f91-852e-4ca8-924a-6d4330bdf7d6"
-      (reference "C38") (unit 1) (value "10pF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C38") (unit 1) (value "20pF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/73f6f212-22da-4ad6-93fc-ec68fdedbc6f"
       (reference "C39") (unit 1) (value "100nF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -10099,7 +10099,7 @@
       (reference "C41") (unit 1) (value "100nF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/9c2c9b6b-0875-44c1-927f-1b81d40f184e"
-      (reference "C42") (unit 1) (value "10pF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C42") (unit 1) (value "20pF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/9be06a17-9fac-41c6-83d1-af8786f06e14"
       (reference "C43") (unit 1) (value "100nF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -10150,7 +10150,7 @@
       (reference "C58") (unit 1) (value "100nnF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/30dac236-008a-4471-a36d-3543fa1964f4"
-      (reference "C59") (unit 1) (value "300nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C59") (unit 1) (value "470nF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6b89c3bc-8c56-4fa2-a9d9-efdc9364584e"
       (reference "C60") (unit 1) (value "100pF, 10%, 10V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -10168,10 +10168,10 @@
       (reference "C64") (unit 1) (value "100nF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/1d9178da-8671-4fe7-8415-a7c29d30beb1"
-      (reference "C65") (unit 1) (value "10uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C65") (unit 1) (value "10uF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8518d573-f4d2-4edc-ab51-3fa8803d16ad"
-      (reference "C66") (unit 1) (value "10uF, 10%, 50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C66") (unit 1) (value "10uF, 10%, 50V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/e13f1872-f42a-4732-9604-93ec8343ef16"
       (reference "D1") (unit 1) (value "5V") (footprint "Diode_SMD:D_SOD-923")
@@ -10204,7 +10204,7 @@
       (reference "J1") (unit 1) (value "XT30PW(2+2)") (footprint "Rolling_Custom:XT30PW(2+2)")
     )
     (path "/dcecb2f4-49d1-4831-a1f0-8775d34e424b"
-      (reference "L1") (unit 1) (value "10uH") (footprint "Inductor_SMD:L_Coilcraft_XxL4040")
+      (reference "L1") (unit 1) (value "10uH") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/782a3433-f895-455b-a40b-e56e90e3bf53"
       (reference "L2") (unit 1) (value "20R") (footprint "Resistor_SMD:R_0402_1005Metric")
