@@ -4518,7 +4518,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5cabeced-530f-4278-92c3-3ef338fb2515)
     (property "Reference" "R?" (id 0) (at 515.62 193.04 90))
-    (property "Value" "10k" (id 1) (at 515.62 195.58 90))
+    (property "Value" "100R" (id 1) (at 515.62 195.58 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 515.366 200.406 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5129,7 +5129,7 @@
     (property "Reference" "R?" (id 0) (at 524.51 205.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100R" (id 1) (at 524.51 208.2799 0)
+    (property "Value" "10k" (id 1) (at 524.51 208.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 522.986 207.264 90)
@@ -5969,7 +5969,7 @@
       (reference "R?") (unit 1) (value "120R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/5cabeced-530f-4278-92c3-3ef338fb2515"
-      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R?") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/60ba2ac1-109e-441f-bbcc-6dcb6ced5367"
       (reference "R?") (unit 1) (value "10k, 5%") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -5987,7 +5987,7 @@
       (reference "R?") (unit 1) (value "33R/1%") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/a533392d-75e4-4fd1-9ce6-100ac3953ed1"
-      (reference "R?") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/d719bbf9-5a30-418e-b968-c1f4d3570400"
       (reference "R?") (unit 1) (value "10k, 5%") (footprint "Resistor_SMD:R_0402_1005Metric")
