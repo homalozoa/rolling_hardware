@@ -381,7 +381,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../ST60_Test/st60_test_a.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
