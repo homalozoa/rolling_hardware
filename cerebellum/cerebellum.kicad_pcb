@@ -2443,7 +2443,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 0f7cc1a6-401d-49f8-89b8-4bad848ee40b)
-    (at 170.3175 110.34)
+    (at 162.03 80.19)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -2485,7 +2485,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 14ba8719-0099-4cb8-8493-f42ea096e478)
-    (at 171.3075 109.33 180)
+    (at 163.02 79.18 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -2611,7 +2611,7 @@
 
   (footprint "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm" (layer "B.Cu")
     (tedit 5F426860) (tstamp 33bb767f-0a85-4504-ac8a-559edc556fed)
-    (at 176.8775 112.74)
+    (at 168.59 82.59)
     (descr "Miniature Crystal Clock Oscillator EuroQuartz XO32 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal oscillator")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -2796,7 +2796,7 @@
 
   (footprint "Rolling_Custom:VQFN20" (layer "B.Cu")
     (tedit 620DF23B) (tstamp 473eec3f-7d3f-4e66-8ab8-05958f8207f3)
-    (at 172.09 113.08 90)
+    (at 163.8025 82.93 90)
     (property "MANUFACTURER" "Texas Instruments")
     (property "MAXIMUM_PACKAGE_HEIGHT" "1 mm")
     (property "PARTREV" "B")
@@ -7146,7 +7146,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c74bdb2a-5cd1-4baa-9b54-75ca572ea7d7)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "B.SilkS")
+    (fp_text user "${REFERENCE}" (at 0.0075 -0.06) (layer "B.SilkS")
       (effects (font (size 0.8 0.26) (thickness 0.04)) (justify mirror))
       (tstamp e381f7fd-794c-4087-8976-307d46ca099a)
     )
@@ -8485,7 +8485,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 5df5dd72-9172-4d95-9089-4a110bf197b7)
-    (at 176.8475 110.1)
+    (at 168.56 79.95)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -8667,7 +8667,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 625059a2-ef4a-449f-b070-612676642b23)
-    (at 174.8875 107.22 90)
+    (at 166.6 77.07 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -8709,7 +8709,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 625bd43b-32d0-4495-9e34-50e342a196ca)
-    (at 176.7675 115.35 180)
+    (at 168.48 85.2 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -9455,7 +9455,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 99438b7f-165f-494a-8ad3-1cf52d319174)
-    (at 170.5675 106.7 180)
+    (at 162.28 76.55 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -9707,14 +9707,14 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp a57a75c8-8901-44e2-98a5-3c93f9b940dd)
-    (at 168.7675 114.3 -90)
+    (at 159.36 85.33 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
     (property "Sheetname" "")
     (path "/9c56590c-4054-4c69-aa3a-f0cbe8988a43")
     (attr smd)
-    (fp_text reference "C37" (at 2.35 0.09 90) (layer "B.SilkS")
+    (fp_text reference "C37" (at 0.84 1.1 90) (layer "B.SilkS")
       (effects (font (size 0.8 1) (thickness 0.15)) (justify mirror))
       (tstamp d67a7847-55eb-4419-a2c6-eff23de9c19c)
     )
@@ -9736,9 +9736,9 @@
     (fp_line (start 0.5 -0.25) (end -0.5 -0.25) (layer "B.Fab") (width 0.1) (tstamp 8a497c4a-1763-490f-acd7-61f067c623bc))
     (fp_line (start -0.5 0.25) (end 0.5 0.25) (layer "B.Fab") (width 0.1) (tstamp c704a531-11c3-4c2a-9e42-71272d89bc80))
     (fp_line (start 0.5 0.25) (end 0.5 -0.25) (layer "B.Fab") (width 0.1) (tstamp de3f7ac3-7d8d-4c86-927c-82d2b5a4b265))
-    (pad "1" smd roundrect (at -0.48 0 270) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect (at -0.48 0 90) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (pintype "passive") (tstamp 840d1c9f-f56c-44b4-988f-749161401f11))
-    (pad "2" smd roundrect (at 0.48 0 270) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at 0.48 0 90) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "CAN_L") (pintype "passive") (tstamp 872ba091-ccc3-452f-87f7-4acb38b0e291))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
       (offset (xyz 0 0 0))
@@ -10074,7 +10074,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp b0fba867-3e80-4a96-8c1e-cb7c70b5d72c)
-    (at 168.7975 111.85 90)
+    (at 159.34 80.21 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -10103,9 +10103,9 @@
     (fp_line (start -0.5 -0.25) (end -0.5 0.25) (layer "B.Fab") (width 0.1) (tstamp 7a15745f-c748-4558-bbef-126bf723b7e5))
     (fp_line (start 0.5 -0.25) (end -0.5 -0.25) (layer "B.Fab") (width 0.1) (tstamp 80643ba1-c0b8-4fd2-8160-3da0482b334c))
     (fp_line (start 0.5 0.25) (end 0.5 -0.25) (layer "B.Fab") (width 0.1) (tstamp b27a1243-b629-4a10-b7ea-7a69e0dfd98b))
-    (pad "1" smd roundrect (at -0.48 0 90) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect (at -0.48 0 270) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (pintype "passive") (tstamp 3270db57-6ace-49b9-89e9-2f8143a333b5))
-    (pad "2" smd roundrect (at 0.48 0 90) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at 0.48 0 270) (size 0.56 0.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 17 "CAN_H") (pintype "passive") (tstamp 129d3fb3-0389-4e04-a773-a07cf06ffb33))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
       (offset (xyz 0 0 0))
@@ -10284,7 +10284,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp bf8921bd-51cf-4ef7-a183-5db4ae878cb0)
-    (at 173.3175 107.22 90)
+    (at 165.03 77.07 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
@@ -10770,7 +10770,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp e2524031-2b1f-40bf-bdef-21a78b445e50)
-    (at 170.7575 108.03 180)
+    (at 162.47 77.88 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cerebellum.kicad_sch")
