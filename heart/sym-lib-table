@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "Rolling_Custom")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Rolling_Custom.kicad_sym")(options "")(descr ""))
-  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Espressif.kicad_sym")(options "")(descr ""))
-)
