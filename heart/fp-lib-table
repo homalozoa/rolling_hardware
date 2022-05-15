@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Rolling_Custom")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Rolling_Custom.pretty")(options "")(descr ""))
+  (lib (name "Connector_JST")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Connector_JST.pretty")(options "")(descr ""))
+  (lib (name "Connector_Molex")(type "KiCad")(uri "${KIPRJMOD}/../libraries/Connector_Molex.pretty")(options "")(descr ""))
+)
