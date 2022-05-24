@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -160,13 +160,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|1092200|2374900|7e10a58d-fe7d-4568-996c-0de17e1e75d4|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|3924300|2273300|29c2f9e8-efba-47a2-844e-a8bf7be933c6|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|5232400|2730500|afad7533-1298-43ed-b0fa-bf95388f8773|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|5232400|2755900|601f0abb-a2c8-4d94-aaf2-d82994ca1dd0|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|736600|2120900|3e449b85-e09c-4203-9bf6-8569050dbe93|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
