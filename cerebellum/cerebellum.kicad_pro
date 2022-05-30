@@ -358,7 +358,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Rolling_Custom"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
