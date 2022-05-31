@@ -2173,7 +2173,7 @@
     (property "Value" "PowerOut" (id 1) (at 36.83 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Rolling_Custom:POGOPIN-2PAD" (id 2) (at 31.75 118.11 0)
+    (property "Footprint" "Rolling_Custom:POGOPIN-E21160-ASB-2PIN" (id 2) (at 31.75 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 31.75 109.22 0)
@@ -3074,7 +3074,7 @@
       (reference "C23") (unit 1) (value "10uf/50V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/4eb1718d-60e2-494b-95fa-12d2aa3e9de5"
-      (reference "J1") (unit 1) (value "PowerOut") (footprint "Rolling_Custom:POGOPIN-2PAD")
+      (reference "J1") (unit 1) (value "PowerOut") (footprint "Rolling_Custom:POGOPIN-E21160-ASB-2PIN")
     )
     (path "/c77e216b-0ed3-4756-9a22-7960f03f738d"
       (reference "J2") (unit 1) (value "PowerIn") (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical")
