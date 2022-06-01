@@ -356,7 +356,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Rolling_Custom"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -394,7 +396,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../steps/distributor.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -403,7 +403,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../TYPE-O接口/SW-4/connector.step",
+      "step": "../steps/connector_f.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
