@@ -80,4 +80,9 @@
   (pad "6" smd rect (at 1.25 -1.139) (size 0.3048 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6aead88a-2dc7-44bb-b8c4-3cb830088c64))
   (pad "7" smd rect (at -2.250001 1.374122) (size 0.4064 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4d49d932-037b-4f12-920f-d52a8c90ae4f))
   (pad "8" smd rect (at 2.250001 1.374122) (size 0.4064 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 47e26ac9-d074-47df-a92b-f14730bbdddd))
+  (model "${KISYS3DMOD}/FH34SRJ-6S.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

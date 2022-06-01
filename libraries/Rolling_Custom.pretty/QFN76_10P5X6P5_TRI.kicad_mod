@@ -595,4 +595,9 @@
   (pad "75" smd rect (at -4.199999 -3.178599) (size 0.2032 0.7548) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 676b425b-071f-4f0e-8930-6f0513708767))
   (pad "76" smd rect (at -4.599998 -3.178599) (size 0.2032 0.7548) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6c2107c2-01fb-46f0-8700-2d8058d735b7))
   (pad "77" smd rect (at 0 0) (size 8.9916 5.0038) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 649f8473-2264-4ac1-8460-e7d7469aa24e))
+  (model "${KISYS3DMOD}/QFN76_10P5X6P5_TRI.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

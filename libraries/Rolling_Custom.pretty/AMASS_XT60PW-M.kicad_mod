@@ -36,4 +36,9 @@
   (pad "2" thru_hole circle (at -3.6 6) (size 3.716 3.716) (drill 2.7) (layers *.Cu *.Mask) (tstamp 3727e4b0-908e-409b-addd-c3ef73ff4efe))
   (pad "SH" thru_hole oval (at -6.75 0) (size 1.2 2.4) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 125ef787-0f05-44ad-92d5-85f24658e6fa))
   (pad "SH" thru_hole oval (at 6.75 0) (size 1.2 2.4) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp c0d60a41-14b3-4461-b26b-d39dada05e5c))
+  (model "${KISYS3DMOD}/Connector_AMASS.3dshapes/XT60PW MALE.STEP"
+    (offset (xyz 0 9.5 4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
