@@ -878,7 +878,7 @@
 
   (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 487ede8b-a387-4dec-b688-6f27ab119dfb)
-    (at 106.65 76.4)
+    (at 106.65 76.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO7380")
     (tags "mounting hole 2.7mm m2.5 iso7380")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -2277,7 +2277,7 @@
 
   (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 96f58521-b11b-4105-a6eb-0d919a829e67)
-    (at 106.65 123.6)
+    (at 106.65 123.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO7380")
     (tags "mounting hole 2.7mm m2.5 iso7380")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -3155,7 +3155,7 @@
 
   (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp d7d783a2-b7c8-4316-948f-a5ca9ccb56bc)
-    (at 193.35 123.6)
+    (at 193.35 123.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO7380")
     (tags "mounting hole 2.7mm m2.5 iso7380")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -3709,7 +3709,7 @@
 
   (footprint "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad_TopBottom" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp fed222e3-432a-4a05-9f44-21ca8d324a9e)
-    (at 193.35 76.4)
+    (at 193.35 76.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO7380")
     (tags "mounting hole 2.7mm m2.5 iso7380")
     (attr board_only exclude_from_pos_files exclude_from_bom)
