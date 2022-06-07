@@ -4450,7 +4450,7 @@
     (property "Reference" "C33" (id 0) (at 361.95 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47uf/50V/0603" (id 1) (at 363.22 124.46 90)
+    (property "Value" "47uf/6.3V/0603" (id 1) (at 363.22 124.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 367.9952 119.38 0)
@@ -5277,7 +5277,7 @@
   (symbol (lib_id "power:GNDA") (at 92.71 77.47 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 55191d87-ff63-48e6-b782-b5eabc48b1c7)
-    (property "Reference" "#PWR?" (id 0) (at 92.71 83.82 0)
+    (property "Reference" "#PWR0110" (id 0) (at 92.71 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDA" (id 1) (at 92.71 82.55 0))
@@ -6284,7 +6284,7 @@
     (property "Reference" "C36" (id 0) (at 369.57 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47uf/50V/0603" (id 1) (at 370.84 124.46 90)
+    (property "Value" "47uf/6.3V/0603" (id 1) (at 370.84 124.46 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 375.6152 119.38 0)
@@ -6543,10 +6543,10 @@
     (property "Reference" "C25" (id 0) (at 281.94 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uf/50V/0402" (id 1) (at 283.21 119.38 90)
+    (property "Value" "10uf/50V/0805" (id 1) (at 283.21 119.38 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 287.9852 114.3 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 287.9852 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 287.02 110.49 0)
@@ -6937,7 +6937,7 @@
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
     (path "/55191d87-ff63-48e6-b782-b5eabc48b1c7"
-      (reference "#PWR?") (unit 1) (value "GNDA") (footprint "")
+      (reference "#PWR0110") (unit 1) (value "GNDA") (footprint "")
     )
     (path "/65313aad-28bf-4519-8673-ecacf3cd8ac6"
       (reference "C1") (unit 1) (value "100nF/10V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -7012,7 +7012,7 @@
       (reference "C24") (unit 1) (value "100nf/50V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/e787b22a-3d91-4a17-98b9-353fe0181fec"
-      (reference "C25") (unit 1) (value "10uf/50V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C25") (unit 1) (value "10uf/50V/0805") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/93be202b-fdc3-4e76-b2fd-15b6cdae9e2f"
       (reference "C26") (unit 1) (value "8.2nf/50V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -7036,10 +7036,10 @@
       (reference "C32") (unit 1) (value "100nF/10V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/0ddd73d0-49e9-4519-8799-16055b6184fb"
-      (reference "C33") (unit 1) (value "47uf/50V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C33") (unit 1) (value "47uf/6.3V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/d3316d42-63af-4c88-8de1-8da058897181"
-      (reference "C36") (unit 1) (value "47uf/50V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C36") (unit 1) (value "47uf/6.3V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0ee1750c-811c-4543-bb64-0d4b8ab140a1"
       (reference "C38") (unit 1) (value "100nF/10V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")

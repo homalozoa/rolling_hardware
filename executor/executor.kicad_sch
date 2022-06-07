@@ -8004,7 +8004,7 @@
     (property "Reference" "C68" (id 0) (at 529.59 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47uf/50V/0603" (id 1) (at 530.86 64.77 90)
+    (property "Value" "47uf/6.3V/0603" (id 1) (at 530.86 64.77 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 533.0952 52.07 0)
@@ -10611,7 +10611,7 @@
     (property "Reference" "C69" (id 0) (at 537.21 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "47uf/50V/0603" (id 1) (at 538.48 64.77 90)
+    (property "Value" "47uf/6.3V/0603" (id 1) (at 538.48 64.77 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 540.7152 52.07 0)
@@ -11164,10 +11164,10 @@
       (reference "C67") (unit 1) (value "22uF/6.3V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/37357377-e9e2-4a2d-9221-58525e53f1fa"
-      (reference "C68") (unit 1) (value "47uf/50V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C68") (unit 1) (value "47uf/6.3V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f338e9a5-4087-4d58-b431-c94fb7478c23"
-      (reference "C69") (unit 1) (value "47uf/50V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C69") (unit 1) (value "47uf/6.3V/0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/8e0128b9-ddfc-44b2-8b62-80ee9fa07549"
       (reference "C70") (unit 1) (value "100nF/10V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
