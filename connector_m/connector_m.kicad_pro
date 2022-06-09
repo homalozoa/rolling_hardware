@@ -55,12 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "invalid_outline|136660000|47240000|23ce1e7f-61bd-4815-8965-f0a40980987d|23b4a9f6-27e5-4388-bcf6-714688e60ada",
-        "invalid_outline|136660000|60040000|27e94c0f-2b0a-4ed9-9e76-d7812079b255|23b4a9f6-27e5-4388-bcf6-714688e60ada",
-        "invalid_outline|66660000|46000000|f85b69fa-03e0-4e3a-a5ed-584463c2c2a2|b8f274ea-9272-4f80-8a82-531ebd0806f7",
-        "invalid_outline|66660000|58800000|b5bbb60e-8507-465b-b3e2-b1a0f2127adb|b8f274ea-9272-4f80-8a82-531ebd0806f7"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
