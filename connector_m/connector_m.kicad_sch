@@ -2773,7 +2773,7 @@
     (in_bom yes) (on_board yes)
     (uuid d4458d1c-7910-440e-8dea-d1e03df2f9b3)
     (property "Reference" "L2" (id 0) (at 259.08 86.36 90))
-    (property "Value" "LQW15AN1N3D10D" (id 1) (at 259.08 90.17 90))
+    (property "Value" "MLG1005S1N3BT000" (id 1) (at 259.08 90.17 90))
     (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (id 2) (at 259.08 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3084,7 +3084,7 @@
       (reference "J3") (unit 1) (value "CANFD_In") (footprint "Connector_JST:JST_GH_BM03B-GHS-TBT_1x03-1MP_P1.25mm_Vertical")
     )
     (path "/d4458d1c-7910-440e-8dea-d1e03df2f9b3"
-      (reference "L2") (unit 1) (value "LQW15AN1N3D10D") (footprint "Inductor_SMD:L_0402_1005Metric")
+      (reference "L2") (unit 1) (value "MLG1005S1N3BT000") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
     (path "/54e6f392-5199-47aa-b110-24d3a39b268d"
       (reference "R1") (unit 1) (value "1k/0402") (footprint "Resistor_SMD:R_0402_1005Metric")

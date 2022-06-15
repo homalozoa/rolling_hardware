@@ -1939,7 +1939,6 @@
     )
   )
 
-
   (junction (at 133.35 133.35) (diameter 0) (color 0 0 0 0)
     (uuid 072d3b56-f7ff-4369-920f-8f011f86ee59)
   )
@@ -4520,7 +4519,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0f6c3a96-c6a2-4cae-b238-f3f5c233b895)
     (property "Reference" "C19" (id 0) (at 334.01 50.8 0))
-    (property "Value" "100uf/50V/0805" (id 1) (at 336.55 55.88 0))
+    (property "Value" "100uf/6.3V/0805" (id 1) (at 336.55 55.88 0))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 330.5048 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4779,7 +4778,7 @@
     (property "Reference" "D7" (id 0) (at 208.28 236.22 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "12V" (id 1) (at 208.28 238.76 90)
+    (property "Value" "BV12C" (id 1) (at 208.28 238.76 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (id 2) (at 209.55 237.49 0)
@@ -4926,13 +4925,13 @@
   (symbol (lib_id "Device:R_US") (at 379.73 57.15 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2f096358-cf9a-4b82-969d-9875d4f6edad)
-    (property "Reference" "R11" (id 0) (at 377.19 55.8799 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Reference" "R11" (id 0) (at 382.27 55.8799 0)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "549R/0201" (id 1) (at 377.19 58.4199 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Value" "549R/0603" (id 1) (at 382.27 58.4199 0)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (id 2) (at 378.714 57.404 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 378.714 57.404 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 379.73 57.15 0)
@@ -5034,7 +5033,7 @@
     (property "Reference" "D6" (id 0) (at 190.5 224.79 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "12V" (id 1) (at 190.5 227.33 90)
+    (property "Value" "BV12C" (id 1) (at 190.5 227.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (id 2) (at 193.04 226.06 0)
@@ -6338,7 +6337,7 @@
     (property "Reference" "D3" (id 0) (at 123.19 223.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "12V" (id 1) (at 123.19 226.06 90)
+    (property "Value" "BV12C" (id 1) (at 123.19 226.06 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (id 2) (at 125.73 224.79 0)
@@ -6421,7 +6420,7 @@
     (property "Reference" "D4" (id 0) (at 140.97 234.95 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "12V" (id 1) (at 140.97 237.49 90)
+    (property "Value" "BV12C" (id 1) (at 140.97 237.49 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323" (id 2) (at 142.24 236.22 0)
@@ -6994,7 +6993,7 @@
       (reference "C18") (unit 1) (value "4.7uF/50V/0805") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/0f6c3a96-c6a2-4cae-b238-f3f5c233b895"
-      (reference "C19") (unit 1) (value "100uf/50V/0805") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C19") (unit 1) (value "100uf/6.3V/0805") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/1a81ed92-b7d6-4e2e-b1fa-f759489fe3e3"
       (reference "C20") (unit 1) (value "100nf/10V/0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -7054,19 +7053,19 @@
       (reference "D2") (unit 1) (value "BZT52C3V3S") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/d6cf48a9-a13f-466f-bfde-8bc93913d1c0"
-      (reference "D3") (unit 1) (value "12V") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D3") (unit 1) (value "BV12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/dca75d67-8d31-4cfe-944d-9a96274d2c81"
-      (reference "D4") (unit 1) (value "12V") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D4") (unit 1) (value "BV12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/a30c0642-d8e5-452a-8e07-4ec5af02c9d7"
       (reference "D5") (unit 1) (value "LTST-C281KFKT-5A/0402") (footprint "LED_SMD:LED_0402_1005Metric")
     )
     (path "/35231abb-451c-4485-8adf-5fdeff949361"
-      (reference "D6") (unit 1) (value "12V") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D6") (unit 1) (value "BV12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/28d5a148-bc54-44f3-9073-42e0716c8823"
-      (reference "D7") (unit 1) (value "12V") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D7") (unit 1) (value "BV12C") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/21df13e8-f1cb-4d93-9100-820a610e89e4"
       (reference "D8") (unit 1) (value "BZT52C5V1S") (footprint "Diode_SMD:D_SOD-323")
@@ -7132,7 +7131,7 @@
       (reference "R10") (unit 1) (value "10k/0402") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/2f096358-cf9a-4b82-969d-9875d4f6edad"
-      (reference "R11") (unit 1) (value "549R/0201") (footprint "Resistor_SMD:R_0201_0603Metric")
+      (reference "R11") (unit 1) (value "549R/0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/8ef88884-2b22-48df-9a58-892a579574e1"
       (reference "R12") (unit 1) (value "33R/1%/0805") (footprint "Resistor_SMD:R_0805_2012Metric")
